@@ -1,0 +1,3 @@
+# Validation repository for the contribution of the Agility with Microservices Programming 2022 workshop. 
+
+This repository was created in the context of our paper "*Towards semi-automated Viewpoint-based Reconstruction of Microservice Architecture*" for  the [Agility with Microservices Programming 2022 (AMP 2022)](https://amp.fe.up.pt/2022/). It contains the reconstructed LEMMA models from our preliminary results in Section 4 ("Preliminary Results") of the paper. More specifically, the repository comprises the [LEMMA](https://github.com/SeelabFhdo/lemma) reconstructed models for all Lakeside Mutual microservices concerning their design, implementation, and operation. 
